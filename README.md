@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **rohankini.rk18@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/rohan-kini-8b5392262/](https://www.linkedin.com/in/rohan-kini-8b5392262/)
+- 📄 Know about my experiences [https://www.linkedin.com/in/rohan-t-kini](https://www.linkedin.com/in/rohan-t-kini)
 
 - ⚡ Fun fact **If you spend more on coffee than on IT security, you will be hacked. 😎**
 
