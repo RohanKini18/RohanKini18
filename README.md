@@ -13,7 +13,7 @@
 
 <p align="left"> <a href="https://twitter.com/rohankini18" target="blank"><img src="https://img.shields.io/twitter/follow/rohankini18?logo=twitter&style=for-the-badge" alt="rohankini18" /></a> </p>
 
-- 💬 Ask me about **| Hacker | programmer | Developer |**
+- 💬 Ask me about **| Hacker | Programmer | AI Developer |**
 
 - 📫 How to reach me **rohankini.rk18@gmail.com**
 
