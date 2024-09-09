@@ -26,3 +26,10 @@
 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rohankini18&show_icons=true&locale=en&layout=compact" alt="rohankini18" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rohankini18&show_icons=true&locale=en" alt="rohankini18" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rohankini18&" alt="rohankini18" /></p>
