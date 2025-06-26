@@ -1,6 +1,6 @@
 # 💫 About Me:
 💬 Ask me about | automobile enthusiast And Tech Fanatic <br><br>📫 How to reach me:  🌐 [**Visit My Portfolio**](https://www.rohantkini.in/) <br><br>⚡ Fun fact: The average car has over 30,000 parts!
-From tiny screws to the engine block, your vehicle is a complex machine made up of tens of thousands of individual components — all working together to get you safely from point A to point B. 😎
+From tiny screws to the engine block, your vehicle is a complex machine made up of tens of thousands of individual components all working together to get you safely from point A to point B. 😎
 
 
 ## 🌐 Socials:
