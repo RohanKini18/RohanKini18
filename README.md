@@ -45,7 +45,7 @@
 <h2 align="center">⚒️ Languages-Frameworks ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,tailwind,nodejs,mysql,python" />
+    <img src="https://skillicons.dev/icons?i=react,tailwind,nodejs,mysql,python" /><br>
     <img src="https://skillicons.dev/icons?i=git,rust,linux,c,cpp" />
    
 </div>
