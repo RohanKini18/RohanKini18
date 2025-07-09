@@ -79,9 +79,11 @@
 <br>
 <div align=center> 
   
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=RohanKini18&theme=buefy&hide_border=false&include_all_commits=false&count_private=true&layout=compact)<br>
-![](https://github-readme-stats.vercel.app/api?username=RohanKini18&theme=buefy&hide_border=false&include_all_commits=false&count_private=true)<br/>
-![](https://github-contributor-stats.vercel.app/api?username=RohanKini18&limit=5&theme=buefy&combine_all_yearly_contributions=true)
+![](https://github-readme-stats.vercel.app/api?username=RohanKini18&theme=nightowl&hide_border=false&include_all_commits=false&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=RohanKini18&theme=nightowl&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=RohanKini18&theme=nightowl&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
 
@@ -89,16 +91,7 @@
 
 <br/><br/>
 
-<h2 align="center">⭐ Stats ⭐</h2>
-<br>
-<div align=center> 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RohanKini18&theme=buefy" alt="GitHub Streak" />
-</p>
 
-</div>
-
-<br/><br/>
 
 <hr/>
 
