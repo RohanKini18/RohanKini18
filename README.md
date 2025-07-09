@@ -82,7 +82,6 @@
 <div align=center> 
 
 ![](https://github-readme-stats.vercel.app/api?username=RohanKini18&theme=buefy&hide_border=false&include_all_commits=false&count_private=true)<br/>
-[![](https://visitcount.itsvg.in/api?id=RohanKini18&icon=1&color=1)](https://visitcount.itsvg.in)
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=RohanKini18&theme=buefy&hide_border=false)<br/>
   
