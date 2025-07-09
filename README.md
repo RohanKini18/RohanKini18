@@ -1,6 +1,6 @@
-<h1 align="center">
+
    [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=40&pause=1000&color=2E89FF&background=FAF0E6&center=true&width=500&height=100&lines=Hi+Their!+%F0%9F%91%8B;I'am+T+Rohan+Kini+!!)](https://git.io/typing-svg)
-</h1>
+
 
 <h3 align="center">A passionate Embedded Engineer from 🇮🇳</h3>
 
