@@ -48,16 +48,15 @@
     <img src="https://skillicons.dev/icons?i=react,tailwind,nodejs,mysql,python" /><br>
     <img src="https://skillicons.dev/icons?i=rust,bash,c,cpp" /><br>
    <img src="https://skillicons.dev/icons?i=flutter,dart" /><br>
-   <img src="https://skillicons.dev/icons?i= vscode, androidstudio,arduino, github" /><br>
-    <img src="https://skillicons.dev/icons?i= windows, linux" /><br>
+
   <!-- this website https://github.com/tandpfun/skill-icons#readme -->
 </div>
 <hr/>
 <h2 align="center">⚔️ Tools - OS ⚔️</h2>
 <br/>
 <div align="center">
-   
-  <!-- this website https://github.com/tandpfun/skill-icons#readme -->
+      <img src="https://skillicons.dev/icons?i= vscode, androidstudio,arduino, github" /><br>
+    <img src="https://skillicons.dev/icons?i= windows, linux" /> <br>
 </div>
 <br/>
 <hr/>
