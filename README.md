@@ -68,7 +68,12 @@
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/RohanKini18/RohanKini18/output/github-contribution-grid-snake.svg" />
+
+<p align="center">
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/RohanKini18/RohanKini18/output/github-contribution-grid-snake.gif" />
+</p>
+
+
 
   
   <br/><br/><br/>
