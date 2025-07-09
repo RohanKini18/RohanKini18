@@ -69,7 +69,10 @@
   <h2>🐍 My Contributions 🐍</h2>
   <br>
   
-![](https://github-contributor-stats.vercel.app/api?username=RohanKini18&limit=5&theme=buefy&combine_all_yearly_contributions=true)
+![](https://github-readme-stats.vercel.app/api?username=RohanKini18&theme=buefy&hide_border=false&include_all_commits=false&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=RohanKini18&theme=buefy&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=RohanKini18&theme=buefy&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+
   
 ![](https://github-contributor-stats.vercel.app/api?username=RohanKini18&limit=5&theme=buefy&combine_all_yearly_contributions=true)
 <p align="center">
