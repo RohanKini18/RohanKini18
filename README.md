@@ -66,7 +66,7 @@
 <h2 align="center"></h2>
 <br/>
 <div align="center">
-      <img src="https://skillicons.dev/icons?i= vscode, androidstudio,github, arduino" /><br>
+      <img src="https://skillicons.dev/icons?i= vscode, androidstudio,github, arduino,c" /><br>
     <img src="https://skillicons.dev/icons?i= windows, linux" /> <br>
 </div>
 <br/>
