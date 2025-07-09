@@ -52,6 +52,17 @@
   <!-- this website https://github.com/tandpfun/skill-icons#readme -->
 </div>
 <hr/>
+<h2 align="center">⚒️ Languages-Frameworks ⚒️</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=react,tailwind,nodejs,mysql,python" /><br>
+    <img src="https://skillicons.dev/icons?i=rust,bash,c,cpp" /><br>
+   <img src="https://skillicons.dev/icons?i=flutter,dart" /><br>
+
+  <!-- this website https://github.com/tandpfun/skill-icons#readme -->
+</div>  
+
+
 <h2 align="center">⚔️ Tools - OS ⚔️</h2>
 <br/>
 <div align="center">
