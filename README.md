@@ -55,7 +55,7 @@
 <h2 align="center">⚔️ Tools - OS ⚔️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=vscode, androidstudio,arduino, github" /><br>
+    <img src="https://skillicons.dev/icons?i=vscode, androidstudio" /><br>
     <img src="https://skillicons.dev/icons?i=rust,bash,c,cpp" /><br>
    <img src="https://skillicons.dev/icons?i=flutter,dart" /><br>
 
