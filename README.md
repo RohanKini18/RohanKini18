@@ -9,6 +9,8 @@
 
  
 <div align="center"> 
+<!--  to get icons visite https://github.com/alexandresanlim/Badges4-README.md-Profile?tab=readme-ov-file -->
+  
   <a href="mailto:rohankini.rk18@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
@@ -33,9 +35,9 @@
    <a href="https://x.com/RohanKini18" target="_blank">
      <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" target="_blank" /> 
   </a>
-
-
-  
+     <a href="https://www.youtube.com/@trohankini" target="_blank">
+     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank" /> 
+  </a>
 </div>
 
  <hr/>
