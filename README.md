@@ -46,10 +46,19 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,tailwind,nodejs,mysql,python" /><br>
-    <img src="https://skillicons.dev/icons?i=git,rust,linux,c,cpp" />
-   
+    <img src="https://skillicons.dev/icons?i=git,rust,linux,c,cpp" /><br>
+   <img src="https://skillicons.dev/icons?i=flutter,dart" /><br>
+  <!-- this website https://github.com/tandpfun/skill-icons#readme -->
 </div>
-
+<hr/>
+<h2 align="center">⚒️ Languages-Frameworks ⚒️</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=react,tailwind,nodejs,mysql,python" /><br>
+    <img src="https://skillicons.dev/icons?i=git,rust,linux,c,cpp" /><br>
+   <img src="https://skillicons.dev/icons?i=flutter,dart" /><br>
+  <!-- this website https://github.com/tandpfun/skill-icons#readme -->
+</div>
 <br/>
 <hr/>
 
