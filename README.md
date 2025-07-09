@@ -5,12 +5,7 @@
 </p>
 
 
-
-
-
-
 <h3 align="center">A passionate Embedded Engineer from 🇮🇳</h3>
-
 
  
 <div align="center"> 
@@ -23,7 +18,9 @@
   <a href="https://www.rohantkini.in/" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
-  
+   <a href="https://www.instagram.com/_.rohan.kini._/" target="_blank">
+     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+  </a>
 </div>
 
  <hr/>
