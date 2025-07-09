@@ -55,20 +55,12 @@
 <h2 align="center">⚔️ Tools - OS ⚔️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=" /><br>
-    <img src="https://skillicons.dev/icons?i=rust,bash,c,cpp" /><br>
-   <img src="https://skillicons.dev/icons?i=flutter,dart" /><br>
+  <img src="https://skillicons.dev/icons?i=vscode,androidstudio,github,arduino" /><br>
+  <img src="https://skillicons.dev/icons?i=windows,linux" />
 
   <!-- this website https://github.com/tandpfun/skill-icons#readme -->
 </div>  
 
-
-<h2 align="center"></h2>
-<br/>
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,androidstudio,github,arduino" /><br>
-  <img src="https://skillicons.dev/icons?i=windows,linux" />
-</div>
 
 <br/>
 <hr/>
