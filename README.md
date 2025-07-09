@@ -1,5 +1,5 @@
 <p align="center">
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=40&pause=1000&color=FFE3D3&background=FAF0E600&center=true&width=500&lines=Hi+Their!+%F0%9F%91%8B;I'am+T+Rohan+Kini+!!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=40&pause=1000&color=FFE3D3&background=FAF0E600&center=true&width=500&lines=Hi+Their!+%F0%9F%91%8B;I'am+T+Rohan+Kini+!!)](https://git.io/typing-svg)
 </p>
 
 
