@@ -69,10 +69,10 @@
   <h2>🐍 My Contributions 🐍</h2>
   <br>
 
-<p align="center">
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/RohanKini18/RohanKini18/output/github-contribution-grid-snake.gif" />
-</p>
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RohanKini18&theme=solarized-light" alt="GitHub Streak" />
+</p>
 
 
   
