@@ -70,6 +70,11 @@
   <br>
 
 ![](https://github-contributor-stats.vercel.app/api?username=RohanKini18&limit=5&theme=buefy&combine_all_yearly_contributions=true)
+ <img src="https://github-contributor-stats.vercel.app/api?username=RohanKini18&limit=5&combine_all_yearly_contributions=true&theme=default&bg_color=fdf6e3&text_color=657b83&border_color=93a1a1" />
+
+<p align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=RohanKini18&limit=5&combine_all_yearly_contributions=true&theme=default&bg_color=fdf6e3&text_color=657b83&border_color=93a1a1" alt="Contributor Stats" />
+</p>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=RohanKini18&icon=1&color=1)](https://visitcount.itsvg.in)
