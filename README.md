@@ -69,7 +69,7 @@
   <h2>🐍 My Contributions 🐍</h2>
   <br>
 
-
+![](https://github-contributor-stats.vercel.app/api?username=RohanKini18&limit=5&theme=buefy&combine_all_yearly_contributions=true)
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=RohanKini18&theme=solarized-light" alt="GitHub Streak" />
 </p>
