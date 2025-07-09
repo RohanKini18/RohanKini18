@@ -1,7 +1,7 @@
 
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Rohan+Kini+T+!;" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=F79533,F37055,F37055,EF4E7B,A166AB,5073B8&center=true&vCenter=true&width=700&height=70&lines=Hi+There!+👋;I'm+Rohan+Kini+T+!;" alt="Typing SVG" />
 </h1>
 
 <h3 align="center">A passionate Embedded Engineer from 🇮🇳</h3>
