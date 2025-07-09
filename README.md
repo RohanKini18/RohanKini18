@@ -9,19 +9,7 @@
 
 <h3 align="center">A passionate Embedded Engineer from 🇮🇳</h3>
 
-<br/>
 
-<div align="center">
- 
- 🔭 I’m currently working on **a marketplace**
- 
- 🌱 I’m currently learning **Rust, Sensors, Actuators, electronic control units **
-
-⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
-
-📫 How to reach me:  🌐 [**Visit My Portfolio**](https://www.rohantkini.in/) 
-
- </div>
  
 <div align="center"> 
   <a href="mailto:rohankini.rk18@gmail.com">
