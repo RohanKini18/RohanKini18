@@ -94,7 +94,7 @@
 <br>
 <div align=center> 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RohanKini18&theme=solarized-light" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RohanKini18&theme=buefy" alt="GitHub Streak" />
 </p>
 
 </div>
