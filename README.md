@@ -65,17 +65,9 @@
 <br/>
 <hr/>
 
-<div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
 
-![](https://github-contributor-stats.vercel.app/api?username=RohanKini18&limit=5&theme=buefy&combine_all_yearly_contributions=true)
 
----
-  <br/>
-</div>
-
-<h2 align="center">⚡ Stats ⚡</h2>
+<h2 align="center">⚡ Stats-My Contributions ⚡</h2>
 <br>
 <div align=center> 
   
