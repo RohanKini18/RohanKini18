@@ -72,6 +72,14 @@
 ![](https://github-contributor-stats.vercel.app/api?username=RohanKini18&limit=5&theme=buefy&combine_all_yearly_contributions=true)
 
 ---
+  <br/>
+</div>
+
+<hr/>
+
+<h2 align="center">⚡ Stats ⚡</h2>
+<br>
+<div align=center>
 [![](https://visitcount.itsvg.in/api?id=RohanKini18&icon=1&color=1)](https://visitcount.itsvg.in)
 ![](https://github-readme-stats.vercel.app/api?username=RohanKini18&theme=buefy&hide_border=false&include_all_commits=false&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=RohanKini18&theme=buefy&hide_border=false)<br/>
@@ -82,23 +90,6 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=RohanKini18&theme=solarized-light" alt="GitHub Streak" />
 </p>
-
-
-  
-  <br/><br/><br/>
-</div>
-
-<hr/>
-
-<h2 align="center">⚡ Stats ⚡</h2>
-<br>
-<div align=center>
-
-![](https://raw.githubusercontent.com/RohanKini18/github-profile-summary-cards/master/profile-summary-card-output/solarized/0-profile-details.svg)
-![](https://raw.githubusercontent.com/RohanKini18/github-profile-summary-cards/master/profile-summary-card-output/solarized/1-repos-per-language.svg)
-![](https://raw.githubusercontent.com/RohanKini18/github-profile-summary-cards/master/profile-summary-card-output/solarized/2-most-commit-language.svg)
-![](https://raw.githubusercontent.com/RohanKini18/github-profile-summary-cards/master/profile-summary-card-output/solarized/3-stats.svg)
-![](https://raw.githubusercontent.com/RohanKini18/github-profile-summary-cards/master/profile-summary-card-output/solarized/4-productive-time.svg)
 
 </div>
 
